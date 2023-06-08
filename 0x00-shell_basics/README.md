@@ -8,3 +8,4 @@ Excuting 6-firstdirectory shall create a new directory /my_new_directory in the 
 Excuting 7-movethatfile shall move the file "betty" from /tmp to /tmp/my_new_directory.
 Excuting 8-firstdelete shall delete the file /tmp/betty
 Excuting 9-firstdirdeletion shall delete the directory /tmp/my_new_directory.
+Excuting 10-back shall change the current directory to the previous directory.
