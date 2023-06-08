@@ -11,3 +11,4 @@ Excuting 9-firstdirdeletion shall delete the directory /tmp/my_new_directory.
 Excuting 10-back shall change the current directory to the previous directory.
 Excuting 11-lists shall list the contents -in long format including hidden files- of the current directory, the parent of the current directory, and the /boot directory.
 Excuting 12-file_type shall print the file type of /tmp/iamafile
+Excuting 14-copy_html shall copy all the distinctive HTML files from working directory to parent directory.
