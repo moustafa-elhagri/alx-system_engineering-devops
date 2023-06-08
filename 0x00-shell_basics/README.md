@@ -6,3 +6,4 @@ Excuting 4-listmorefiles shall display the current directory contents in a long 
 Excuting 5-listfilesdigitonly shall display the current directory contents in a long format with user and group IDs displayed numerically (including hidden content).
 Excuting 6-firstdirectory shall create a new directory /my_new_directory in the /tmp directory.
 Excuting 7-movethatfile shall move the file "betty" from /tmp to /tmp/my_new_directory.
+Excuting 8-firstdelete shall delete the file /tmp/betty
