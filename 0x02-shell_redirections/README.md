@@ -8,3 +8,4 @@ Excuting 2-hellofile shall view the contents of the passwd file.
 7-file creats a file with a weird name!
 8-cwd_state prints the current working directory's contents into a file named ls_cwd_content.
 9-duplicate_last_line duplicates the last line in file iacta.
+10-no_more_js removes all .js files from working directory and all its subs.
