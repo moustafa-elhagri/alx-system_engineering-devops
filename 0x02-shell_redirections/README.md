@@ -10,3 +10,4 @@ Excuting 2-hellofile shall view the contents of the passwd file.
 9-duplicate_last_line duplicates the last line in file iacta.
 10-no_more_js removes all .js files from working directory and all its subs.
 11-directories print sthe number of directories and subs in the working directory.
+12-newest_files print the top 10 most recent files in working directory.
